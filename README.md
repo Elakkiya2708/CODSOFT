@@ -45,7 +45,7 @@ As part of the *CodSoft Internship – Python Programming, Task 1 involves build
 
 ---
 
-👩‍💻 Developed by:
+**👩‍💻 Developed by:**
 
 Elakkiya Varadharajan – Python Development Intern at CodSoft
 
