@@ -38,4 +38,15 @@ As part of the *CodSoft Internship – Python Programming, Task 1 involves build
 
 ---
 
-## 📁 Project Structure
+## 🧠 How It Works:
+1. The user is shown a menu to choose an action (Add, View, Complete, Delete, Exit).
+2. Based on the selection, the appropriate function is triggered.
+3. Tasks are managed using Python lists or optionally written to a text file for persistence.
+
+---
+
+👩‍💻 Developed by:
+
+Elakkiya Varadharajan – Python Development Intern at CodSoft
+
+
